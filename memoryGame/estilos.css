@@ -1,0 +1,12 @@
+.altura-img{
+    height: 180px;
+    border-radius: 15px;
+}
+
+body{
+    background-image: linear-gradient(rgba(5,7,12,0.2),rgba(5,7,12,0.2)),url(imagenes/cancha4.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
